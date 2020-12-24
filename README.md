@@ -28,4 +28,4 @@ Along with this, an EDA notebook and pdf have to be submitted to display data an
 
 **My Rank**
 
-![](<script>alert(0)</script>)
+![](Screenshot (319).png)
